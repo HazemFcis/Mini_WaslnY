@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\hazem\documents\visual studio 2015\projects\mini_waslny\mini_waslny\source.cpp(207): warning C4715: 'Graph::get_distance': not all control paths return a value
+  Mini_Waslny.vcxproj -> c:\users\hazem\documents\visual studio 2015\Projects\Mini_Waslny\Debug\Mini_Waslny.exe
+  Mini_Waslny.vcxproj -> c:\users\hazem\documents\visual studio 2015\Projects\Mini_Waslny\Debug\Mini_Waslny.pdb (Partial PDB)
